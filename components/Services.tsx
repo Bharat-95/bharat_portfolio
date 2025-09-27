@@ -104,7 +104,7 @@ const Services: React.FC<Props> = ({
             />
             <div className="absolute top-3 right-3 opacity-0 group-hover:opacity-100 transition-opacity duration-200 pointer-events-auto">
               <Image
-                src="/Services-icon.webp"
+                src="/services-icon.webp"
                 width={60}
                 height={60}
                 alt="no icon found"
